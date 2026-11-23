@@ -1,0 +1,7 @@
+deepagents==0.7.38
+langchain==1.5.0
+langchain-openai==1.8.0
+langgraph==1.2.22
+pydantic==2.14.3
+python-dotenv==1.2.4
+tiktoken==0.14.0
